@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeishoophu.kristjanlilleoja.com/sitemap.xml
